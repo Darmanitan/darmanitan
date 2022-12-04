@@ -1,13 +1,55 @@
-<p align="center">
-  <img width = 128 src="https://github.com/Darmanitan/darmanitan/blob/main/imgs/email.gif">
-  <img src="https://github.com/Darmanitan/darmanitan/blob/main/imgs/welcome.png">
-  <hr>
-  <div align="center">
-  <a href=http://cats-are-awesome.xyz>visit my website!</a> <img width = 30 src="https://github.com/Darmanitan/darmanitan/blob/main/imgs/globeputar.gif">
-  <br>
-  <a href=https://github.com/Darmanitan?tab=repositories>check out my projects!</a> <img width = 40 src="https://github.com/Darmanitan/darmanitan/blob/main/imgs/skull.gif"> <br> <br>
-  <img src="https://github.com/Darmanitan/darmanitan/blob/main/imgs/Iexplorer.gif">
-  <img src="https://camo.githubusercontent.com/559341e215ed4ee7aede9b55e690fe6a5ea6420b4dbd0d7447144f4c73569db4/68747470733a2f2f63372e706d2f696d672f6e6f74657061642d6c6f676f332e676966">
-  <img src="https://cdn.discordapp.com/attachments/841100723570999306/960002583068573726/vim.gif">
+<div align="center">
+<pre><code>
+⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜⬜⬜⬜⬜⬛🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪⬛⬛⬜⬜⬜⬜⬜⬜⬛⬛🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬛⬛🟪🟪🟪⬛⬛⬜⬜⬜⬜⬛⬛🟪🟪🟪⬛⬛⬜⬜⬜
+⬜⬜⬜⬛🟪🟪🟪🟪⬛⬛⬜⬜⬜⬜⬛⬛🟪🟪🟪🟪⬛⬜⬜⬜
+⬜⬜⬜⬛🟪🟪🟪🟪⬛⬛⬛⬜⬜⬛⬛⬛🟪🟪🟪🟪⬛⬜⬜⬜
+⬜⬜⬜⬛🟪🟪🟪🟪⬛⬛⬛⬜⬜⬛⬛⬛🟪🟪🟪🟪⬛⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪🟪⬛⬛⬛⬜⬜⬛⬛⬛🟪🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟪🟪⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬜⬜⬛⬜⬛⬛⬜⬛⬜⬜⬜⬛⬛⬜⬜⬜⬜
+⬜⬜⬜⬜⬛⬛⬜⬜⬜⬛⬜⬛⬛⬜⬛⬜⬜⬜⬛⬛⬜⬜⬜⬜
+⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬛⬛⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛
+⬜⬜⬜⬜⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬜⬜⬜⬜
+⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜
+⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜
+</code></pre>
+<h2>ploob ✨</h2>
 </div>
-</p>
+
+
+<div align="center">
+  <p>
+    <strong>
+    ˋ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎ ￫ ˗ˏˋ
+    <a href='https://darmanitan.github.io/'>website</a> —
+    <a href='https://github.com/Darmanitan?tab=repositories'>repositories</a>
+    ￩ ˗ˏˋ⋆☁︎⋆₊⁺⋆☾⋆₊⁺⋆ˋ
+    </strong>
+  </p>
+</div>
+
+<p>↳ <i>about me</i></p>
+
+hello! i'm ploob. i'm an aspiring fullstack developer 💻.
+
+currently, i'm an entry-level python developer 🐍, and learning basic front-end skills such as html & css.
+
+<p>↳ <i>working on</i></p>
+
+right now, i'm working on a project called [ditto]. it is going to be a temporary file hosting service/pastebin clone 💬.
+
+<p>↳ <i>contact me</i></p>
+
+if you need to contact me, [discord] 🤖 is the easiest way to do it. just shoot me a dm 😺!
+
+[ditto]: https://github.com/darmanitan/ditto
+[discord]: https://discordid.netlify.app/?id=855586334005002270
