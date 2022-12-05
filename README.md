@@ -29,7 +29,7 @@
 <div align="center">
   <p>
     <strong>
-    ˋ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎ ˗ˏˋ￫
+    ˋ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎ˏˋ˗ ￫
     <a href='https://darmanitan.github.io/'>website</a> —
     <a href='https://github.com/Darmanitan?tab=repositories'>repositories</a>
     ￩ ˗ˏˋ⋆☁︎⋆₊⁺⋆☾⋆₊⁺⋆ˋ
